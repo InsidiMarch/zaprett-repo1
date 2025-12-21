@@ -26,7 +26,7 @@
   {
     "name": "list-general.txt",
     "description": "Общие домены",
-    "author": "zaprett-devs & @mewmrow",
+    "author": "zaprett-devs",
     "hash": "0ac003f9d9644fa5a5240f2789ceb4d7d477aae8185cdffe0285d660c31ca2d2",
     "type": "list",
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/lists/include/list-general.txt"
@@ -66,7 +66,7 @@
   {
     "name": "list-telegram.txt",
     "description": "Домены Telegram",
-    "author": "zaprett-devs",
+    "author": "zaprett-devs & @mewmrow",
     "hash": "5ff135000c9b53b49fd4a5abb0cf71d2754b9f921b145664e5384eb78e8b0c40",
     "type": "list",
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/lists/include/list-telegram.txt"
