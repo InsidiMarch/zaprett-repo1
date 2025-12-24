@@ -104,14 +104,6 @@
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/lists/include/list-meta-services.txt"
   },
   {
-    "name": "list-roblox.txt",
-    "author": "zaprett-devs and @mewmrow",
-    "description": "Домены Roblox",
-    "hash": "64e5195c90165bbe37bb6635d239c58b5c0dc05c127910e259ba4100f17a2f02",
-    "type": "list",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/lists/include/list-roblox.txt"
-  },
-  {
     "name": "list-exclude-yandex.txt",
     "author": "@mewmrow",
     "description": "Яндекс домены для черного списка",
