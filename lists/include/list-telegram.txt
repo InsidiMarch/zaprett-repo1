@@ -203,3 +203,6 @@ webk.telegram.org
 webz.telegram.org
 windows.telegram.org
 zeus.telegram.org
+instantview.telegram.org
+stel.com
+telegram-cdn.org
