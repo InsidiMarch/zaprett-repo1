@@ -36,6 +36,7 @@ onlinesim.io
 onlinesim.space
 onlinesim.club
 zaprett.xyz
+
 z.stakean.xyz
 mailru.proItch.io
 github.com
@@ -46,3 +47,8 @@ api.cobalt.tools
 sndcdn.com
 sunny.imput.net
 umamusume.com
+downloadcommon.limbuscompanycdn.org
+download.limbuscompanycdn.org
+downloadfmod.limbuscompanycdn.org
+presence.limbuscompanyapi.com
+www.limbuscompanyapi.com
